@@ -69,13 +69,13 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner">
     <div class="carousel-item active">
-        <img class="big-img" src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/resize.jpeg" class="d-block w-100" alt="...">
+        <img class="big-img" src="https://i.imgur.com/MOMutCh.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-    <img class="big-img" src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/Warzone-Zombies-Mode-1.jpg" class="d-block w-100" alt="...">
+    <img class="big-img" src="https://i.imgur.com/hYAfFai.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-    <img class="big-img" src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/WZ-Zombie-Royale-005.jpg" class="d-block w-100" alt="...">
+    <img class="big-img" src="https://i.imgur.com/fPeWLtQ.png" class="d-block w-100" alt="...">
     </div>
 </div>
 </div>
@@ -92,7 +92,7 @@
 <!-- CARDS 3 OF THEM -->
 
 <div class="card" style="width: 18rem;">
-    <img src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/Screen Shot 2020-10-27 at 7.48.15 PM.png" class="card-img-top" height="225px" alt="...">
+    <img src="https://i.imgur.com/W1o2ZuT.png" class="card-img-top" height="225px" alt="...">
     <div class="card-body">
     <h6 class="card-title">Call of Duty Warzone - Zombie Hunting with Jacksepticeye !</h6>
     <p class="card-text">Check out this video of Jackseptieye playing zombie warzone for the first time and see what he has to say.</p>
@@ -101,7 +101,7 @@
 </div>
 
 <div class="card2" style="width: 18rem;">
-    <img src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/Screen Shot 2020-10-27 at 7.52.04 PM.png" class="card-img-top" height="225px" alt="...">
+    <img src="https://i.imgur.com/HziSIM4.png" class="card-img-top" height="225px" alt="...">
     <div class="card-body">
     <h6 class="card-title">Call of Duty Warzone Zombies is Better than anyone thought!</h6>
     <p class="card-text">This player gets an amazing amount of kills for his first time playing and when its time to be a zombie.. he loves it!.</p>
@@ -110,7 +110,7 @@
 </div>
 
 <div class="card3" style="width: 18rem;">
-    <img src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/Screen Shot 2020-10-27 at 7.53.48 PM.png" class="card-img-top" height="225px" alt="...">
+    <img src="https://i.imgur.com/fPeWLtQ.png" class="card-img-top" height="225px" alt="...">
     <div class="card-body">
     <h6 class="card-title">*TOP 5 LOADOUTS* for ZOMBIE ROYALE!</h6>
     <p class="card-text">Need some help setting up your class? Check out the top 5 loadouts to help you conquer those zombies.</p>
@@ -123,7 +123,7 @@
 </div>
 <!-- MEDIA CARDS -->
 <div class="media">
-    <img src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/Untitled-2.png" class="mr-3" width="64px" height="64px" alt="...">
+    <img src="https://i.imgur.com/G4Ye2VQ.png" class="mr-3" width="64px" height="64px" alt="...">
 <div class="media-body">
     <h5 class="mt-0">You're a Zombie!</h5>
     <p>
@@ -133,7 +133,7 @@
 </div>
 
 <div class="media">
-    <img src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/img_400181.png" class="mr-3" width="64px" height="64px" alt="...">
+    <img src="https://i.imgur.com/9Tgd1wR.png" class="mr-3" width="64px" height="64px" alt="...">
     <div class="media-body">
     <h5 class="mt-0">Night Mode!</h5>
     <p>
@@ -143,7 +143,7 @@
 </div>
 
 <div class="media">
-    <img src="/Users/rubencedeno/Desktop/SEI1019/unit_one/deliverable/my-website/imgs/vial.jpg" class="mr-3" width="64px" height="64px" alt="...">
+    <img src="https://i.imgur.com/fx74dkA.jpg" class="mr-3" width="64px" height="64px" alt="...">
     <div class="media-body">
     <h5 class="mt-0">Collect Vials</h5>
     <p>
