@@ -1,0 +1,77 @@
+
+.display-4, .nav-link, h5 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.navbar2 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.jumbotron {
+    height: 680px;
+}
+
+.card { 
+    float: left; 
+    width: 200px;
+    height: 450px;
+    margin-left: 150px;
+}
+
+.card2 {
+    float: left; 
+    width: 200px;
+    height: 450px;
+    margin-left: 155px;
+}
+
+.card3 {
+    float: right; 
+    width: 200px;
+    height: 450px;
+    margin-right: 150px;
+}
+
+.mid-title {
+    text-align: center;
+    margin: 20px;
+    padding-bottom: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.mid-title2 {
+    text-align: center;
+    margin-top: 520px;
+    margin-bottom: 50px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.media {
+    padding-left: 100px;
+    padding-right: 125px;
+    padding-bottom: 25px;
+}
+
+.alert {
+    text-align: center;
+}
+.lead, p {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.big-img {
+    height: 400px;
+    padding-left: 390px;
+    padding-bottom: 40px;
+}
+
+.form-group {
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: center;
+}
+
+.form-text {
+    padding-bottom: 10px;
+}
