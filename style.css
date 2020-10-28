@@ -22,7 +22,8 @@
     float: left; 
     width: 200px;
     height: 450px;
-    margin-left: 155px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 .card3 {
@@ -61,7 +62,7 @@
 
 .big-img {
     height: 400px;
-    padding-left: 390px;
+    padding-left: 550px;
     padding-bottom: 40px;
 }
 
